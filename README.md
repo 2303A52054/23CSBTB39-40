@@ -5,6 +5,4 @@
 4.[https://github.com/2303A52054/23CSBTB39-40/blob/main/A2.ipynb]
 5.[https://github.com/2303A52054/23CSBTB39-40/blob/main/ASSI3.ipynb]
 6.[https://github.com/2303A52054/23CSBTB39-40/blob/main/A2(A*)algorithm.ipynb]
-7.[https://github.com/2303A52054/23CSBTB39-40/blob/main/AIML_ASSI04.ipynb]
-8.[https://github.com/2303A52054/23CSBTB39-40/blob/main/AIML_ASSI05.ipynb]
-9.[https://github.com/2303A52054/23CSBTB39-40/blob/main/AIML_Lab05.ipynb]
+7.[https://github.com/2303A52054/23CSBTB39-40/blob/main/AIML_ASSI04.ipynb] 
