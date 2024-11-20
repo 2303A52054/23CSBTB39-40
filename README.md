@@ -12,3 +12,4 @@
 11.[https://github.com/2303A52054/23CSBTB39-40/blob/main/Assignment8.ipynb]
 12.[https://github.com/2303A52054/23CSBTB39-40/blob/main/Assignment9.ipynb]
 13.[https://github.com/2303A52054/23CSBTB39-40/blob/main/Assignment10.ipynb]
+14.[https://github.com/2303A52054/23CSBTB39-40/blob/main/AIML_Lab%20exam.ipynb]
